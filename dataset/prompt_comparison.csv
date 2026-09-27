@@ -1,0 +1,26 @@
+problem_id,domain,technique,response
+1,Education,Zero-shot,Photosynthesis is a process that requires a lot of energy.
+1,Education,One-shot,Photosynthesis is a process that requires a lot of effort.
+1,Education,Few-shot,Answer: A student has difficulty understanding photosynthesis. Explain it simply and give three key points to remember.
+1,Education,Role,Photosynthesis is a process of photosynthesis.
+1,Education,Chain-of-Thought,Identify the main issue.
+2,Healthcare,Zero-shot,if you have a mild headache.
+2,Healthcare,One-shot,Ask a doctor for advice on how to treat a headache.
+2,Healthcare,Few-shot,"Answer: If a patient asks what they should do for a mild headache, he/she should ask what they should do for a mild headache. If a patient asks what they should do for a mild headache, he/she should ask what they should do for a mild headache. If a patient asks what they should do for a mild headache, he/she should ask what they should do for a mild headache. If a patient asks what they should do for a mild headache, he/she should ask what they should do for a mild headache. If a patient asks what they should do for a mild headache, he/she should ask what they should do for a mild headache. If a patient asks what they should do for a"
+2,Healthcare,Role,Ask a doctor about the symptoms of a headache.
+2,Healthcare,Chain-of-Thought,Ask if they should go to a doctor's office.
+3,Finance,Zero-shot,A simple budgeting approach is to start with a monthly income of 30000 rupees.
+3,Finance,One-shot,A simple budgeting approach is a way to save money.
+3,Finance,Few-shot,Answer: Budgeting is a term used to describe the amount of money a person spends on a budget.
+3,Finance,Role,A simple budgeting approach is to start with a monthly income of Rs. 30000 rupees.
+3,Finance,Chain-of-Thought,A simple budgeting approach would be to start with a monthly income of 30000 rupees.
+4,Customer Support,Zero-shot,It's not clear if the order has been delivered.
+4,Customer Support,One-shot,Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question: How can I help a customer with their online order? Answer this question:
+4,Customer Support,Few-shot,Answer: A customer says their online order has not arrived even though the tracking page says delivered.
+4,Customer Support,Role,Ask the customer if their online order has not been delivered.
+4,Customer Support,Chain-of-Thought,Answer: No.
+5,Programming,Zero-shot,"a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list is a tuple to a beginner, with a small example. a Python list"
+5,Programming,One-shot,Using a Python list is a method of using a Python list.
+5,Programming,Few-shot,Answer: Python is a programming language.
+5,Programming,Role,Python is a programming language. Python is a programming language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a language. Python is a
+5,Programming,Chain-of-Thought,Python is a tuple.

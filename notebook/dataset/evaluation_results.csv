@@ -1,0 +1,26 @@
+problem_id,domain,technique,relevance,clarity,accuracy,completeness,total_score
+1,Education,Zero-shot,1,1,1,1,4
+1,Education,One-shot,1,1,1,1,4
+1,Education,Few-shot,2,1,2,1,6
+1,Education,Role,1,1,1,1,4
+1,Education,Chain-of-Thought,0,1,1,1,3
+2,Healthcare,Zero-shot,1,1,1,1,4
+2,Healthcare,One-shot,2,1,2,1,6
+2,Healthcare,Few-shot,1,2,1,2,6
+2,Healthcare,Role,2,1,2,1,6
+2,Healthcare,Chain-of-Thought,1,1,1,1,4
+3,Finance,Zero-shot,2,1,2,1,6
+3,Finance,One-shot,2,1,2,1,6
+3,Finance,Few-shot,2,1,2,1,6
+3,Finance,Role,2,1,2,1,6
+3,Finance,Chain-of-Thought,2,1,2,1,6
+4,Customer Support,Zero-shot,1,1,1,1,4
+4,Customer Support,One-shot,2,2,2,2,8
+4,Customer Support,Few-shot,2,1,2,1,6
+4,Customer Support,Role,2,1,2,1,6
+4,Customer Support,Chain-of-Thought,0,1,1,1,3
+5,Programming,Zero-shot,2,2,2,2,8
+5,Programming,One-shot,2,1,2,1,6
+5,Programming,Few-shot,1,1,1,1,4
+5,Programming,Role,1,2,1,2,6
+5,Programming,Chain-of-Thought,2,1,2,1,6
